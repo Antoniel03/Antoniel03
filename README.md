@@ -1,10 +1,13 @@
-## Hi there 👋
+<!--## Hi there 👋 -->
+<p align="center">
+  <img src="assets/alistar-league-of-legends.gif" alt="animated" />
+</p>
 
 <!--
 **Antoniel03/Antoniel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![ding-ding-ding-alistar](assets/alistar-league-of-legends.gif)
 Here are some ideas to get you started:
-![ding-ding-ding-alistar](https://github.com/user-attachments/assets/89de13cc-7496-4e26-ba64-b81e3badb17e)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
