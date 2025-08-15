@@ -1,6 +1,6 @@
 <!--## Hi there 👋 -->
 <p align="center">
-  <img src="assets/alistar-league-of-legends.gif" alt="animated" />
+  <img src="assets/alistar-league-of-legends.gif" alt="animated" width="250" height="450" />
 </p>
 
 <!--
